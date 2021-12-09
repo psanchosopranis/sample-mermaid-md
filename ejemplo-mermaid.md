@@ -376,7 +376,7 @@ classDiagram
 ## 1.9. Requirement Diagram
 
 ```mermaid
-    requirementDiagram
+requirementDiagram
 
     requirement test_req {
     id: 1
@@ -393,7 +393,7 @@ classDiagram
 ```
 
 ```mermaid
-    requirementDiagram
+requirementDiagram
 
     requirement test_req {
     id: 1
